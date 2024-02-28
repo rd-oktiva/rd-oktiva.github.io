@@ -12,9 +12,9 @@ Bachelor’s degree in Statistics | Universitas Negeri Yogyakarta (_Jul 2023_)
 - Reported the interview results to the Wilkerstat application regarding families' socioeconomic status and house location. Also reported the result files to the Supervisor regarding the interview results based on the neighborhoods.
 
 ### Data Analyst Intern @ BMKG Kelas 1 Sleman (_Aug-Sept 2021_)
-Collected meteorological data such as earthquake data and magnetic precursor data from 2019 until 2021.
-Filtered the earthquake and magnetic precursor data based on data several criteria using R and Ms. Excel.
-Analyzed and interpreted the integrated data using the regression tree method to predict the earthquake's magnitude based on the emergence of anomalies with R and reported to the field supervisor.
+- Collected meteorological data such as earthquake data and magnetic precursor data from 2019 until 2021.
+- Filtered the earthquake and magnetic precursor data based on data several criteria using R and Ms. Excel.
+- Analyzed and interpreted the integrated data using the regression tree method to predict the earthquake's magnitude based on the emergence of anomalies with R and reported to the field supervisor.
 
 ## Achievement
 ### Infographics and Statistics Presentations COD IPB 2023, finalist (group)
