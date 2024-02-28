@@ -5,7 +5,7 @@
 ## Education
 Bachelor’s degree in Statistics | Universitas Negeri Yogyakarta (_Jul 2023_)
 
-## Working Experience
+## Experience
 ### Field Data Collector @ BPS Kabupaten Sleman (_Oct-Dec 2022_)
 - Coordinated with the sub-village officials to verify the number of families and the boundaries of the village (data collection area)
 - Interviewed more than 250 families in 5 neighborhoods through door-to-door interviews based on the existing form to collect the families' data regarding their social and economic status.
