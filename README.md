@@ -17,11 +17,12 @@ Bachelor’s degree in Statistics | Universitas Negeri Yogyakarta (_Jul 2023_)
 - Analyzed and interpreted the integrated data using the regression tree method to predict the earthquake's magnitude based on the emergence of anomalies with R and reported to the field supervisor.
 
 ## Achievement
-### Infographics and Statistics Presentations COD IPB 2023, finalist (group)
+**Infographics and Statistics Presentations COD IPB 2023, finalist (group)**
 
 ## Projects
 ### K-Means Clustering to Get Player Recommendation in Fantasy Premier League (FPL) with R
 [Publication](https://medium.com/@rd.oktiva/k-means-clustering-to-get-player-recommendation-in-fantasy-premier-league-fpl-for-the-gw-21-with-4ac6f406c12c)
+
 [Visualization Result](https://lookerstudio.google.com/reporting/3cdad439-6bfe-491e-8eb4-3cc4c3855a2d/page/nPXkD)
 
 There are so many factors affecting a player’s performance. It’s sometimes hard for us (as FPL managers) to choose which players we should transfer in or transfer out based on their performance stats. Here, the k-means cluster can determine the player’s cluster. So, we are able to know which players have good stats or bad stats. Data used was retrieved from FPL API.
