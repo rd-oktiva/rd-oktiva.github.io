@@ -1,6 +1,6 @@
 # Fresh graduate of Statistics
 
-#### Technical Skills: R, Looker Studio, Minitab, SPSS, Ms Excel, Python, SQL 
+#### Technical Skills: R, Looker Studio, Tableau, Minitab, SPSS, Ms Excel, Python, SQL, BigQuery
 
 ## Education
 Bachelor’s degree in Statistics | Universitas Negeri Yogyakarta (_Jul 2023_)
@@ -21,9 +21,7 @@ Bachelor’s degree in Statistics | Universitas Negeri Yogyakarta (_Jul 2023_)
 
 ## Projects
 ### K-Means Clustering to Get Player Recommendation in Fantasy Premier League (FPL) with R
-[Publication](https://medium.com/@rd.oktiva/k-means-clustering-to-get-player-recommendation-in-fantasy-premier-league-fpl-for-the-gw-21-with-4ac6f406c12c)
-
-[Visualization Result](https://lookerstudio.google.com/reporting/3cdad439-6bfe-491e-8eb4-3cc4c3855a2d/page/nPXkD)
+[Publication](https://medium.com/@rd.oktiva/k-means-clustering-to-get-player-recommendation-in-fantasy-premier-league-fpl-for-the-gw-21-with-4ac6f406c12c) || [Visualization Result](https://lookerstudio.google.com/reporting/3cdad439-6bfe-491e-8eb4-3cc4c3855a2d/page/nPXkD)
 
 There are so many factors affecting a player’s performance. It’s sometimes hard for us (as FPL managers) to choose which players we should transfer in or transfer out based on their performance stats. Here, the k-means cluster can determine the player’s cluster. So, we are able to know which players have good stats or bad stats. Data used was retrieved from FPL API.
 
@@ -31,3 +29,17 @@ There are so many factors affecting a player’s performance. It’s sometimes h
 [Publication](https://jurnal.usk.ac.id/natural/article/view/36076/20254)
 
 Data came from World Value Survey (WVS) Wave 7 with 11,387 individuals from the Philippines, Indonesia, Malaysia, Myanmar, Singapore, Thailand, and Vietnam. Data used were analyzed using an ordinal response multilevel model with the level of happiness as a response variable. The results showed that the happiness level was affected by gender, marital status, health status, income, religiosity, education level, life satisfaction, and freedom of choice. However, age at the individual level and variables at the country level did not affect the happiness level.
+
+## Certification
+- [Belajar Dasar Data Science _by Dicoding Indonesia_](https://www.dicoding.com/certificates/L4PQQ4D6QPO1)
+- [Belajar Dasar Visualisasi Data _by Dicoding Indonesia_](https://www.dicoding.com/certificates/1OP8NQ6G8XQK)
+- [Memulai Pemrograman dengan Python _by Dicoding Indonesia_](https://www.dicoding.com/certificates/ERZRWQ082XYV)
+- [Belajar Machine Learning untuk Pemula _by Dicoding Indonesia_](https://www.dicoding.com/certificates/JLX17KL1JX72)
+- Data Analyst _by Google_
+  - [Dasar-dasar Analitik Data: Data, Data di Mana-mana](https://coursera.org/share/ecddbfacea4ec87b2fa2d726ed93181a)
+  - [Ajukan Pertanyaan untuk Mengambil Keputusan Berdasarkan Data](https://coursera.org/share/2817ac7d4534f17aca8c17571effdabf)
+  - [Mempersiapkan Data untuk Eksplorasi](https://coursera.org/share/9db57a7d03200cb944302f03983f4316) 
+  - [Memproses Data dari Kotor ke Bersih](https://coursera.org/share/8b642a0b2ceb995ffc1664d16fc64cda)
+  - [Menganalisis Data untuk Menjawab Pertanyaan](https://coursera.org/share/0adcc7c22b968faef7b57124aa59d665)
+  - [Berbagi Data Melalui Seni Visualisasi](https://coursera.org/share/c076ab33a5c0ba05ddb7f07299598d74)
+  - [Analisis Data dengan Pemrograman R](https://coursera.org/share/1856437a089fbb3c9a4b86909fb01140)
