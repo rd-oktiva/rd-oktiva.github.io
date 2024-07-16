@@ -35,7 +35,7 @@ Data came from World Value Survey (WVS) Wave 7 with 11,387 individuals from the 
 - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/1OP8NQ6G8XQK) _by Dicoding Indonesia_
 - [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/ERZRWQ082XYV) _by Dicoding Indonesia_
 - [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/JLX17KL1JX72) _by Dicoding Indonesia_
-- Data Analyst _by Google_
+- [Data Analyst](https://coursera.org/share/99d45e1ea3e6287049c2bc2ea948693f) _by Google_
   - [Dasar-dasar Analitik Data: Data, Data di Mana-mana](https://coursera.org/share/ecddbfacea4ec87b2fa2d726ed93181a)
   - [Ajukan Pertanyaan untuk Mengambil Keputusan Berdasarkan Data](https://coursera.org/share/2817ac7d4534f17aca8c17571effdabf)
   - [Mempersiapkan Data untuk Eksplorasi](https://coursera.org/share/9db57a7d03200cb944302f03983f4316) 
@@ -43,3 +43,4 @@ Data came from World Value Survey (WVS) Wave 7 with 11,387 individuals from the 
   - [Menganalisis Data untuk Menjawab Pertanyaan](https://coursera.org/share/0adcc7c22b968faef7b57124aa59d665)
   - [Berbagi Data Melalui Seni Visualisasi](https://coursera.org/share/c076ab33a5c0ba05ddb7f07299598d74)
   - [Analisis Data dengan Pemrograman R](https://coursera.org/share/1856437a089fbb3c9a4b86909fb01140)
+  - [Proyek Akhir Analitis Data Google: Selesaikan Sebuah Studi Kasus](https://coursera.org/share/676936e51d2c0e63f7d0a17d81e6b9e6)
